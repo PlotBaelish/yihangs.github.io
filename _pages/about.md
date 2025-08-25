@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Robotics</b>, <b>3D Vision</b>
+subtitle: <b>LLM</b>, <b>Graph Learning</b>
 
 profile:
   align: right
-  image: QianxuWang.jpeg
+  image: YihangSun.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
@@ -20,23 +20,15 @@ social: false # includes social icons at the bottom of the page
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
-I am a fourth-year undergraduate student at Peking University, advised by <a href="https://yzhu.io/">Prof. Yixin Zhu</a> and fortunated collaborate with [Prof. Yaodong Yang](https://www.yangyaodong.com/) at PKU and <a href="https://geometry.stanford.edu/member/guibas/">Prof. Leonidas J. Guibas</a> at Stanford remotely. In 2024 summer, I worked as a visiting research student at Stanford, advised by <a href="https://web.stanford.edu/~bohg/">Prof. Jeannette Bohg</a>.
+I am a first-year MSCS student at UIUC, fortunate to be advised by <a href="https://cs.stanford.edu/~jiaxuan/">Prof. Jiaxuan You</a>. I received my Bachelor’s degree in Computer Science from the School of EECS, Peking University, in 2025.
 
+Currently, my research interests primarily focus on <span style="color:rgb(62, 30, 176);">the application of LLMs, with an emphasis on the interaction between humans and LLMs</span>. Key areas of interest include:
 
-My long-term research goal is to achieve human-level robust sensorimotor coordination in robotics. I am also very interested in 3D Vision and Animation. My previous research has primarily focused on dexterous manipulation from a semantic perspective.
+- **LLM Personalization.** Developing lightweight LLM personalization frameworks that leverage interaction data to address challenges such as high computational costs and privacy concerns in existing methods.
 
-Currently, I am thinking and exploring <span style="color: #781eb0;">two key questions</span> in manipulation:
+- **Enhancing LLMs with Graphs.** Graphs can formalize entities with interconnected relationships, making them well-suited to enhance LLMs, which handle vast amounts of common knowledge and tackle complex semantic tasks. 
 
-<strong style="color: #781eb0;">What are the sources of knowledge for manipulation?</strong> 
-
-- **Shared information across datasets.** The features of *Cross-embodiment*, *cross-environment*, and *cross-quality* make robotic datasets unique compared to data in other fields like vision and natural language. Defining a universal data format and unifying existing datasets, rather than solely collecting new ones, presents a promising approach to fundamentally addressing data scarcity in robotics. I am eager to explore the structure of shared motion primitives and semantics in these datasets and investigate how to integrate them to achieve semantic-aware and robust manipulation in the real world.
-
-- **Shared foundations with scalable data sources.** The vision domain offers rich semantic correspondences valuable for robotic perception, while natural language, as a natural carrier of reasoning and prompting, can enhance decision-making. I am excited to investigate the connections between robotics and scalable data sources by leveraging these shared foundations.
-
-<strong style="color: #781eb0;">How can diverse sources of knowledge be effectively integrated?</strong>
-
-- **Structured Policy** **Design**. Current policies (e.g. in IL/RL) directly map perception to actions of specific end-effector, which(i) process complex information without prioritization and (ii) limit the available data sources. In contrast, humans first reason about interactions visually, then adapt during manipulation using closed-loop feedback from multiple modalities (e.g., tactile, acoustic). I am excited to explore the design of a structured manipulation policy, including *how to integrate the end-effector agnostic action representation from diverse data* *sources* and *when to incorporate multi-modal perception and close-loop control*.
-
+- Beyond the above, I am also interested in exploring various directions within **the empirical aspects of evaluating and improving the interpretability, fairness, privacy, robustness, and reasoning capabilities of LLMs**, ultimately advancing their benefits to humanity.
 
 <strong style="color: #FF5733;">Feel free (and please do!) to reach out if you have any questions, comments about my research, or anything you'd like to discuss or share with me!</strong>
 

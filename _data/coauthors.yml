@@ -1,53 +1,64 @@
-"ding":
-   - firstname: ["Zihan"]
-     url: https://quantumiracle.github.io/webpage/
+"you":
+   - firstname: ["Jiaxuan"]
+     url: https://cs.stanford.edu/~jiaxuan/
 
-"chen":
-   - firstname: ["Yuanpei"]
-     url: https://cypypccpy.github.io/
+"liu":
+   - firstname: ["Ge"]
+     url: https://www.mit.edu/~geliu/
 
-"ren":
-   - firstname: ["Allen Z."]
-     url: https://allenzren.github.io/
+"feng":
+   - firstname: ["Tao"]
+     url: https://ft2023.github.io/taofeng.github.io/
 
-"gu":
-   - firstname: ["Shixiang Shane"]
-     url: https://sites.google.com/view/gugurus/home
+"zhang":
+   - firstname: ["Ceyao"]
+     url: https://github.com/CeyaoZhang
 
-"dong":
-   - firstname: ["Hao"]
-     url: https://zsdonghao.github.io/
+"yang":
+   - firstname: ["Kaijie"]
+     url: https://scholar.google.com/citations?user=bByiSPkAAAAJ&hl=en
 
-"jin":
-   - firstname: ["Chi"]
-     url: https://sites.google.com/view/cjin/home
+"hu":
+   - firstname: ["Siyi"]
+     url: https://theohhhu.github.io/
 
-"deng":
-   - firstname: ["Congyue"]
-     url: https://cs.stanford.edu/~congyue/
+"wang":
+   - firstname: ["Zihao"]
+     url: https://zhwang4ai.github.io/
 
-"lum":
-   - firstname: ["Tyler"]
-     url: https://tylerlum.github.io/
+"li":
+   - firstname: ["Guanghe"]
+     url: https://guangheli12.github.io/
 
 "yang":
    - firstname: ["Yaodong"]
      url: https://www.yangyaodong.com/
 
-"bohg":
-   - firstname: ["Jeannette"]
-     url: https://web.stanford.edu/~bohg/
+"zhang":
+   - firstname: ["Zhaowei"]
+     url: https://zowiezhang.github.io/
+
+"liu":
+   - firstname: ["Anji"]
+     url: https://liuanji.github.io/
 
 "zhu":
-   - firstname: ["Yixin"]
-     url: https://yzhu.io/
+   - firstname: ["Songchun"]
+     url: https://www.zhusongchun.net/
 
-"guibas":
-   - firstname: ["Leonidas"]
-     url: https://geometry.stanford.edu/member/guibas/
+"liang":
+   - firstname: ["Yitao"]
+     url: https://zero-lab-pku.github.io/personwise/liangyitao/
 
-"you":
-   - firstname: ["Yang"]
-     url: https://qq456cvb.github.io/
+"yin":
+   - firstname: ["Feng"]
+     url: https://sse.cuhk.edu.cn/en/faculty/yinfeng
 
+"zhang":
+   - firstname: ["Junge"]
+     url: https://people.ucas.edu.cn/~ZHANGJUNGE?language=en
+
+"chang":
+   - firstname: ["Xiaojun"]
+     url: https://www.xiaojun.ai/
 
