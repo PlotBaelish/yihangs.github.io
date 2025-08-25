@@ -1,56 +1,55 @@
 "you":
-   - firstname: ["Jiaxuan"]
-     url: https://cs.stanford.edu/~jiaxuan/
+  - firstname: ["Jiaxuan"]
+    url: https://cs.stanford.edu/~jiaxuan/
 
 "liu":
-   - firstname: ["Ge"]
-     url: https://www.mit.edu/~geliu/
-   - firstname: ["Anji"]
-     url: https://liuanji.github.io/
+  - firstname: ["Ge"]
+    url: https://www.mit.edu/~geliu/
+  - firstname: ["Anji"]
+    url: https://liuanji.github.io/
 
 "feng":
-   - firstname: ["Tao"]
-     url: https://ft2023.github.io/taofeng.github.io/
+  - firstname: ["Tao"]
+    url: https://ft2023.github.io/taofeng.github.io/
 
 "zhang":
-   - firstname: ["Ceyao"]
-     url: https://github.com/CeyaoZhang
-   - firstname: ["Zhaowei"]
-     url: https://zowiezhang.github.io/
-   - firstname: ["Junge"]
-     url: https://people.ucas.edu.cn/~ZHANGJUNGE?language=en
+  - firstname: ["Ceyao"]
+    url: https://github.com/CeyaoZhang
+  - firstname: ["Zhaowei"]
+    url: https://zowiezhang.github.io/
+  - firstname: ["Junge"]
+    url: https://people.ucas.edu.cn/~ZHANGJUNGE?language=en
 
 "yang":
-   - firstname: ["Kaijie"]
-     url: https://scholar.google.com/citations?user=bByiSPkAAAAJ&hl=en
-   - firstname: ["Yaodong"]
-     url: https://www.yangyaodong.com/
+  - firstname: ["Kaijie"]
+    url: https://scholar.google.com/citations?user=bByiSPkAAAAJ&hl=en
+  - firstname: ["Yaodong"]
+    url: https://www.yangyaodong.com/
 
 "hu":
-   - firstname: ["Siyi"]
-     url: https://theohhhu.github.io/
+  - firstname: ["Siyi"]
+    url: https://theohhhu.github.io/
 
 "wang":
-   - firstname: ["Zihao"]
-     url: https://zhwang4ai.github.io/
+  - firstname: ["Zihao"]
+    url: https://zhwang4ai.github.io/
 
 "li":
-   - firstname: ["Guanghe"]
-     url: https://guangheli12.github.io/
+  - firstname: ["Guanghe"]
+    url: https://guangheli12.github.io/
 
 "zhu":
-   - firstname: ["Songchun"]
-     url: https://www.zhusongchun.net/
+  - firstname: ["Songchun"]
+    url: https://www.zhusongchun.net/
 
 "liang":
-   - firstname: ["Yitao"]
-     url: https://zero-lab-pku.github.io/personwise/liangyitao/
+  - firstname: ["Yitao"]
+    url: https://zero-lab-pku.github.io/personwise/liangyitao/
 
 "yin":
-   - firstname: ["Feng"]
-     url: https://sse.cuhk.edu.cn/en/faculty/yinfeng
+  - firstname: ["Feng"]
+    url: https://sse.cuhk.edu.cn/en/faculty/yinfeng
 
 "chang":
-   - firstname: ["Xiaojun"]
-     url: https://www.xiaojun.ai/
-
+  - firstname: ["Xiaojun"]
+    url: https://www.xiaojun.ai/
