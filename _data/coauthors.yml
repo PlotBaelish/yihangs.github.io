@@ -5,6 +5,8 @@
 "liu":
    - firstname: ["Ge"]
      url: https://www.mit.edu/~geliu/
+   - firstname: ["Anji"]
+     url: https://liuanji.github.io/
 
 "feng":
    - firstname: ["Tao"]
@@ -13,10 +15,16 @@
 "zhang":
    - firstname: ["Ceyao"]
      url: https://github.com/CeyaoZhang
+   - firstname: ["Zhaowei"]
+     url: https://zowiezhang.github.io/
+   - firstname: ["Junge"]
+     url: https://people.ucas.edu.cn/~ZHANGJUNGE?language=en
 
 "yang":
    - firstname: ["Kaijie"]
      url: https://scholar.google.com/citations?user=bByiSPkAAAAJ&hl=en
+   - firstname: ["Yaodong"]
+     url: https://www.yangyaodong.com/
 
 "hu":
    - firstname: ["Siyi"]
@@ -30,18 +38,6 @@
    - firstname: ["Guanghe"]
      url: https://guangheli12.github.io/
 
-"yang":
-   - firstname: ["Yaodong"]
-     url: https://www.yangyaodong.com/
-
-"zhang":
-   - firstname: ["Zhaowei"]
-     url: https://zowiezhang.github.io/
-
-"liu":
-   - firstname: ["Anji"]
-     url: https://liuanji.github.io/
-
 "zhu":
    - firstname: ["Songchun"]
      url: https://www.zhusongchun.net/
@@ -53,10 +49,6 @@
 "yin":
    - firstname: ["Feng"]
      url: https://sse.cuhk.edu.cn/en/faculty/yinfeng
-
-"zhang":
-   - firstname: ["Junge"]
-     url: https://people.ucas.edu.cn/~ZHANGJUNGE?language=en
 
 "chang":
    - firstname: ["Xiaojun"]
